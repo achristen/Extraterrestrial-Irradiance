@@ -30,7 +30,7 @@ Sub-VIs
 * azimuth_angle.vi - determines the solar azimuth angle <i>&Omega;</i> in radians for a given location (latitude) and time (day of year, time of day).
 * slope_calculation.vi - calculates the cosine of the angle between a slope normal and the solar beam for a given solar zenith angle, slope angle, solar azimuth angle and slope azimuth angle.
 
-Additional material
+Source / License
 --------------
 
 This code has been written by Andreas Christen, Associate Professor, the University of British Columbia, Vancouver, Canada and is published for free use and modification under the GNU GPL V 2.0.
