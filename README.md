@@ -1,7 +1,7 @@
 Extraterrestrial-Irradiance
 ===========================
 
-This LabView VIs has been developed for teaching and illustration of the Earth-Sun geometry and the distribution of solar radiation in absence of atmospheric effects on flat and tilted (sloped) surfaces (i.e. to calculate extraterrestrial irradiance K<sub>Ex</sub>). This is used in teaching climatology, solar energy, building-atmopshere interactions etc.
+This LabView VIs has been developed for teaching and illustration of the Earth-Sun geometry and the distribution of solar radiation in absence of atmospheric effects on flat and tilted (sloped) surfaces (i.e. to calculate extraterrestrial irradiance K<sub>Ex</sub>). Use: teaching climatology, solar energy, building-atmopshere interactions etc.
 
 Description
 --------------
@@ -29,6 +29,7 @@ Sub-VIs
 * zenith_angle.vi - determines the zenith angle <i>z</i> in radians for a given location (latitude) and time (day of year, time of day).
 * azimuth_angle.vi - determines the solar azimuth angle <i>&Omega;</i> in radians for a given location (latitude) and time (day of year, time of day).
 * slope_calculation.vi - calculates the cosine of the angle between a slope normal and the solar beam for a given solar zenith angle, slope angle, solar azimuth angle and slope azimuth angle.
+* daily_total.vi - calculates daily and yearly totals from an array of hourly values
 
 Source / License
 --------------
