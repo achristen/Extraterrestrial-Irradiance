@@ -3,6 +3,8 @@ Extraterrestrial-Irradiance
 
 This LabView VIs has been developed for teaching and illustration of the Earth-Sun geometry and the distribution of solar radiation in absence of atmospheric effects on flat and tilted (sloped) surfaces (i.e. to calculate extraterrestrial irradiance K<sub>Ex</sub>). Use: teaching climatology, solar energy, building-atmopshere interactions etc.
 
+![Front-Panel](Example-Front-Panel.png)
+
 Description
 --------------
 
